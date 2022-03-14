@@ -9,6 +9,7 @@ a studio page using github pages. it also included the use of java script html a
 
 ## Setup
 - Installing this project inyour machine use:
+- https://github.com/tyron20/ip3.git
 
 
 
